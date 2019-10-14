@@ -1,2 +1,4 @@
 # ShaderTestRepo
-Working with Shaders
+Unity dump repo
+
+Credit to https://catlikecoding.com
